@@ -1,0 +1,2 @@
+John, Smith, Male, john.smith@gmail.com, HR, MGR, 123, Wall Street, New York, Vietnam
+dung, trinh, Male, dungtrungtrinh@gmail.com, IT, CO, 141, Wall Street, New York, Vietnam
